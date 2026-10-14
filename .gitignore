@@ -1,0 +1,6 @@
+# Fichiers compiles
+*.class
+
+# IDE / systeme
+.vscode/
+.DS_Store
